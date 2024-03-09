@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appsetor/appsetor-oss.git"
+    "url": "https://github.com/appsetor/appsetor-oss"
   },
   "keywords": [
     "appsetor-oss"
